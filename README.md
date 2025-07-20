@@ -1,0 +1,2 @@
+# ElsinoreChain
+Enter Ghost.
